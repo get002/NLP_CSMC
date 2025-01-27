@@ -84,10 +84,10 @@
  >>> Multilingual and Crosslingual Language Modeling
 
 ### Text Books: 
-- 1. Multilingual natural Language Processing Applications: From Theory to Practice – Daniel M. Bikel and Imed Zitouni, Pearson Publication 
-- 2. Natural Language Processing and Information Retrieval: Tanvier Siddiqui, U.S. Tiwary 
+1. Multilingual natural Language Processing Applications: From Theory to Practice – Daniel M. Bikel and Imed Zitouni, Pearson Publication 
+2. Natural Language Processing and Information Retrieval: Tanvier Siddiqui, U.S. Tiwary 
 ### Reference Book:
-- 1. Speech and Natural Language Processing - Daniel Jurafsky & James H Martin, Pearson Publications
+1. Speech and Natural Language Processing - Daniel Jurafsky & James H Martin, Pearson Publications
  
 
 # NLP - Natural Language Processing LAB
