@@ -90,27 +90,27 @@
 
 # NLP - Natural Language Processing LAB<br/>
 >>
->> 1. Write a Python Program to Perform following tasks on Text
->> 
->>> a) Tokenization<br/>
->>> b) Stop word Removal<br/>
->>
->> 2. Write a Python program to implement Porter stemmer algorithm for stemming<br/>
->>
->> 3. Write a python program for<br/>
->>> a) Word Analysis<br/>
->>> b) Word Generation<br/>
->>
->> 4. Create a simple List for at least 5 words with ambigious sense and write a python program to implement WSD<br/>
->>
->> 5. install NLTK tool kit and perform stemming<br/>
->>
->> 6. Create a simple list of atleast 10 words POS Tagging and find POS for any given word<br/>
->>
->> 7. Write a python program to
->>
->>> a) Perform Morphological Analysis using NLTK library<br/>
->>> b) Generate n-grams using NLTK N-Grams library<br/>
->>> c) Implement N-Grams smoothing<br/>
->>
->> 8. Using NLTK package to convert audio file to text and text file to audio files<br/>
+> 1. Write a Python Program to Perform following tasks on Text
+> 
+>> a) Tokenization<br/>
+>> b) Stop word Removal<br/>
+>
+> 2. Write a Python program to implement Porter stemmer algorithm for stemming<br/>
+>
+> 3. Write a python program for<br/>
+>> a) Word Analysis<br/>
+>> b) Word Generation<br/>
+>
+> 4. Create a simple List for at least 5 words with ambigious sense and write a python program to implement WSD<br/>
+>
+> 5. install NLTK tool kit and perform stemming<br/>
+>
+> 6. Create a simple list of atleast 10 words POS Tagging and find POS for any given word<br/>
+>
+> 7. Write a python program to
+>
+>> a) Perform Morphological Analysis using NLTK library<br/>
+>> b) Generate n-grams using NLTK N-Grams library<br/>
+>> c) Implement N-Grams smoothing<br/>
+>
+> 8. Using NLTK package to convert audio file to text and text file to audio files<br/>
