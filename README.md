@@ -41,46 +41,44 @@
 >>> 2.2.6 Complexity of the Approaches<br/>
 >>> 2.2.7 Performances of the Approaches<br/>
 
-# UNIT - 02 Syntax Analysis 
+# UNIT - 02
 >> 
->> Parsing Natural Language<br/>
+>> Syntax I : Parsing Natural Language<br/>
 >>> Treebanks: A Data-Driven Approach to Syntax<br/>
 >>> Representation of Syntactic Structure<br/>
 >>> Parsing Algorithms<br>
+
+# Unit: III <br>
+>>
+>> Syntax II :
 >>> Models for Ambiguity Resolution in Parsing<br>
 >>> Multilingual Issues Networks-2<br>
-
-# Unit: III Semantic Parsing<br>
 >>
->> Semantic Parsing<br>
+>> Semantic Parsing I<br>
 >>> Introduction<br>
 >>> Semantic Interpretation<br>
 >>> System Paradigms<br>
->>> Word Sense Systems<br>
->>> Software<br>
+>>> Word Sense<br>
 
- # Unit: IV Predicate-Argument<br>
+ # Unit: IV <br>
  >>
- >> Predicate-Argument<br>
+ >> Semantic Parsing II</br>
  >>> Predicate-Argument Structure<br>
  >>> Meaning Representation Systems<br>
- >>>  Software<br>
    
  # Unit: V Uncertain knowledge and Learning<br>
- >>
- >> Discourse Processing<br>
- >>> Cohension<br>
- >>> Reference Resolution<br>
- >>> Discourse Cohension and Structure<br>
  >>
  >> Language Modeling<br>
  >>> Introduction<br>
  >>> N-Gram Models<br>
  >>> Language Model Evaluation<br>
- >>> Parameter Estimation<br>
+ >>> Bayesian Parameter Estimation<br>
  >>> Language Model Adaptation<br>
- >>> Types of Language Models<br>
- >>> Language-Specific Modeling Problems</br>
+ >>
+ >> Types of Language Models<br>
+ >>> class based
+ >>> variable length
+ >>> Bayesian topic based
  >>> Multilingual and Crosslingual Language Modeling
 
 ### Text Books: 
@@ -90,4 +88,20 @@
 1. Speech and Natural Language Processing - Daniel Jurafsky & James H Martin, Pearson Publications
  
 
-# NLP - Natural Language Processing LAB
+# NLP - Natural Language Processing LAB<br/>
+>>
+>> 1. Write a Python Program to Perform following tasks on Text<br/>
+>>> a) Tokenization<br/>
+>>> b) Stop word Removal<br/>
+>> 2. Write a Python program to implement Porter stemmer algorithm for stemming<br/>
+>> 3. Write a python program for<br/>
+>>> a) Word Analysis<br/>
+>>> b) Word Generation<br/>
+>> 4. Create a simple List for at least 5 words with ambigious sense and write a python program to implement WSD<br/>
+>> 5. install NLTK tool kit and perform stemming<br/>
+>> 6. Create a simple list of atleast 10 words POS Tagging and find POS for any given word<br/>
+>> 7. Write a python program to<br/>
+>>> a) Perform Morphological Analysis using NLTK library<br/>
+>>> b) Generate n-grams using NLTK N-Grams library<br/>
+>>> c) Implement N-Grams smoothing<br/>
+>> 8. Using NLTK package to convert audio file to text and text file to audio files<br/>
